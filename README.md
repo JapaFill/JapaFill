@@ -1,13 +1,13 @@
 <h1 align="center">About me...</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,5,5,5&height=150&section=header" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2&height=150&section=header" width="100%"/>
+
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JapaFill/JapaFill/generated/overview.svg#gh-dark-mode-only" width="48%"/>
-  <img src="https://raw.githubusercontent.com/JapaFill/JapaFill/generated/languages.svg#gh-dark-mode-only" width="48%"/>
-</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40"/>
 </p>
+
 <p align="center">
   <a href="https://discord.com/users/SEU_ID_DISCORD">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JapaFill/JapaFill/output/commit-invaders-dark.svg">
@@ -26,6 +27,7 @@
     <img alt="Commit Invaders" src="https://raw.githubusercontent.com/JapaFill/JapaFill/output/commit-invaders.svg" width="100%">
   </picture>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=JapaFill&label=visitors&color=blue&style=flat" />
 </p>
