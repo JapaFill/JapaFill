@@ -1,5 +1,5 @@
 <h1 align="center">About me...</h1>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,2,2&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,5,5,5,5&height=150&section=header" width="100%"/>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/JapaFill/JapaFill/generated/overview.svg#gh-dark-mode-only" width="48%"/>
