@@ -1,6 +1,6 @@
 <h1 align="center">About me...</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,7,7,7,7&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,9,9,9,9&height=150&section=header" width="100%"/>
 
 <br/>
 
