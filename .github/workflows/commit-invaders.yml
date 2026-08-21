@@ -1,0 +1,27 @@
+name: Generate Commit Invaders
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # roda todo dia à meia-noite (UTC)
+  workflow_dispatch:        # permite rodar manualmente pela aba Actions
+  push:
+    branches:
+      - main               # roda também a cada push na main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Space Invaders SVG
+        uses: Goblinlordx/commit-invaders@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: ${{ github.repository_owner }}
+          # output_branch: output
+          # output_file: commit-invaders.svg
+          # no_scoreboard: false
