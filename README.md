@@ -29,5 +29,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JapaFill&label=visitors&color=black&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=JapaFill&label=visitors&color=blue&style=flat" />
 </p>
